@@ -28,6 +28,4 @@ earning my Master of Music in Music Business and Entertainment Industries.
 🎸
 I am a guitarist, absolutely love to paint and I'm a gamer through and through!
 
-🎮 PSN: jwthevision | 🎮 Xbox: JWTHEVIS1ON
-
 ⚔️ Anime too, lol. :nerd_face:
