@@ -9,9 +9,11 @@ Audio and its many wonders,
 Audio over I/P,
 Interopeability,
 Virtual Machines,
-Programming in Python, C++ and JavaScript,
-Librosa,
-Software Defined Radio,
+Python
+Java
+HTML
+CSS
+JS
 Digital Signal Processing,
 Cloud Based Computing,
 Pro Tools,
